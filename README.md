@@ -96,3 +96,16 @@
 **Рекомендации для повышения безопасности:**
 - Рассмотреть возможность внедрения машинного обучения для выявления аномального поведения.
 - Использование блокчейна для повышения прозрачности и надежности данных о курсах и успеваемости учащихся.
+
+## Источники
+
+- [OWASP](https://owasp.org)
+- [Postman](https://www.postman.com/)
+- [Kaspersky. Man-in-the-Middle Attack](https://encyclopedia.kaspersky.ru/glossary/man-in-the-middle-attack/)
+- [Black Box Testing - Habr](https://habr.com/ru/articles/549054/)
+- [SAST, SCA, BSCA - Habr](https://habr.com/ru/companies/mws/articles/723862/)
+- [HSTS и Certificate Pinning - Selectel](https://habr.com/ru/companies/selectel/articles/463915/)
+- [What is a Hardware Security Module - Information Security Asia](https://informationsecurityasia.com/ru/what-is-a-hardware-security-module-hsm/)
+- [Rootkit - Kaspersky Blog](https://www.kaspersky.ru/blog/chto-takoe-rutkit-i-kak-udalit-ego-s-kompyutera/650/)
+- [Jailbreaking - Kaspersky](https://www.kaspersky.ru/resource-center/definitions/what-is-jailbreaking)
+- [Directline Blog - HSTS](https://www.directline.pro/blog/tekhnologiya-hsts/)
